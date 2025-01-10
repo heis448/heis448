@@ -1,4 +1,4 @@
-(https://github.com/user-attachments/assets/4b3b9a5f-bb8f-4e16-a2fa-045dd8427fa1)
+
 - 👋 Hi, I’m Tylor
 
 
@@ -10,8 +10,5 @@
 - 📫 How to reach me 👉kevohero004@gmail.com 
 - 😄 Pronouns: he-is
 - ⚡ Fun fact: I love making inventions
+![Screenshot_2025-01-09-19-19-16-51_7352322957d4404136654ef4adb64504](https://github.com/user-attachments/assets/b39d11f8-36d4-4faf-ba8a-23e13cfe236c)
 
-<!---
-heis448/heis448 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->

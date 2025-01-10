@@ -6,7 +6,7 @@
 
 - 👀 I’m glad to reach you out❤️
 - 🌱 I’m currently learning software engineering 
-- 💞️ I’m looking to collaborate on bots development 
+- 💞️ I’m currently used to collaborate on bots development 
 - 📫 How to reach me 👉kevohero004@gmail.com 
 - 😄 Pronouns: he-is
 - ⚡ Fun fact: I love making inventions
